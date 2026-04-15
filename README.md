@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis & Data Cleaning using Pandas
+# Sales Data Analysis & Data Cleaning using Pandas
 
 ## Project Overview
 This project demonstrates foundational data wrangling, cleaning, and exploratory data analysis (EDA) using Python's Pandas library. The goal of this analysis was to take raw, messy sales data, handle missing and incorrect values, and extract meaningful business insights—such as determining the highest-performing city in terms of revenue.
@@ -24,5 +24,5 @@ This project demonstrates foundational data wrangling, cleaning, and exploratory
 3. Open the `sales.analysis.project.ipynb` file using Jupyter Notebook or any compatible IDE (like IntelliJ IDEA or VS Code).
 4. Run the cells sequentially to see the data cleaning process and final output.
 
-## 👨‍💻 Author
-**Syed Moyeez Ali** Data Science Enthusiast | Learning Java & Python Data Stack
+## Author
+**Syed Moyeez Ali** Data Science Student | Aspiring Data Analyst | Learning Java & Python Data Stack
