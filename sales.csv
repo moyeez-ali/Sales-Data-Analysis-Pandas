@@ -1,0 +1,31 @@
+Order_ID,Date,City,Category,Product,Price,Quantity
+1001,2026-05-01,Karachi,Electronics,Smartphone,50000,2
+1002,2026-05-01,Lahore,Furniture,Office Chair,15000,4
+1003,2026-05-02,Islamabad,Clothing,T-Shirt,1200,
+1004,2026-05-02,Karachi,Electronics,Laptop,120000,1
+1005,2026-05-03,Lahore,Furniture,Sofa Set,,1
+1006,2026-05-03,Karachi,Clothing,Jeans,2500,3
+1007,2026-05-04,Islamabad,Electronics,Headphones,4000,-2
+1008,2026-05-04,Lahore,Furniture,Dining Table,45000,1
+1009,2026-05-05,Karachi,Electronics,Smart Watch,8000,5
+1010,2026-05-05,Islamabad,Clothing,Sneakers,,2
+1011,2026-05-06,Lahore,Electronics,Tablet,35000,3
+1012,2026-05-06,Karachi,Furniture,Bookshelf,12000,
+1013,2026-05-07,Islamabad,Clothing,Jacket,5500,1
+1014,2026-05-07,Lahore,Electronics,Smartphone,50000,4
+1015,2026-05-08,Karachi,Furniture,Office Chair,15000,10
+1016,2026-05-08,Islamabad,Clothing,T-Shirt,1200,5
+1017,2026-05-09,Lahore,Electronics,Laptop,,2
+1018,2026-05-09,Karachi,Furniture,Bed Frame,30000,1
+1019,2026-05-10,Islamabad,Clothing,Jeans,2500,-1
+1020,2026-05-10,Lahore,Electronics,Headphones,4000,6
+1021,2026-05-11,Karachi,Furniture,Coffee Table,8500,2
+1022,2026-05-11,Islamabad,Clothing,Sneakers,4500,
+1023,2026-05-12,Lahore,Electronics,Smart Watch,8000,3
+1024,2026-05-12,Karachi,Furniture,Sofa Set,60000,1
+1025,2026-05-13,Islamabad,Clothing,Jacket,,2
+1026,2026-05-13,Lahore,Electronics,Tablet,35000,1
+1027,2026-05-14,Karachi,Furniture,Dining Table,45000,
+1028,2026-05-14,Islamabad,Clothing,T-Shirt,1200,8
+1029,2026-05-15,Lahore,Electronics,Laptop,120000,2
+1030,2026-05-15,Karachi,Furniture,Bookshelf,12000,-3
